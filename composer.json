@@ -17,7 +17,7 @@
     "autoload": {
         "psr-4": {
             "Aliftech\\Kafka\\": "src/",
-            "Aliftech\\Kafka\\Providers": "src/Providers"
+            "Aliftech\\Kafka\\Providers": "src/Providers/"
         }
     },
     "autoload-dev": {
